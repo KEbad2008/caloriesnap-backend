@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../caloriesnap"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "caloriesnap"
+	}
+}
